@@ -18,9 +18,7 @@ Please add chromedriver.exe in folder [src\test\resources]
 ### Steps to clone execute the tests
 
 ```
-git clone https://github.com/reachbharathan/Java-Junit-POM-AccountsDemo.git
-cd Selenium-Page-Object-Model-Junit-Java
-mvn clean test
+git clone https://github.com/yyy71183/WebApplication_Test.git
 ```
 
 
