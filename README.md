@@ -12,6 +12,8 @@ Test application used for automation is [https://www.smava.de]
 1. Selenium
 2. Junit
 
+##Resource
+Please add chromedriver.exe in folder [src\test\resources]
 
 ### Steps to clone execute the tests
 
